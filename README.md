@@ -81,7 +81,7 @@ Follow instructions in builder and your exe will be found in the dist folder und
 # Prerequisites
 • Windows 10
 
-• python
+• python (3.11.6 version)
 
 • github
 
